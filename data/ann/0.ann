@@ -1,0 +1,7 @@
+T1	Disease 6 9	糖尿病
+T2	Drug 61 65	控制血糖
+*	Treat T2 T1
+T3	Disease 654 657	低血糖
+T4	Disease 658 662	体重增加
+T5	Drug 2263 2267	控制体重
+*	Treat T5 T3
